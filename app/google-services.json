@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "798986826293",
+    "firebase_url": "https://jumbo-23175.firebaseio.com",
+    "project_id": "jumbo-23175",
+    "storage_bucket": "jumbo-23175.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798986826293:android:b0414fe83048633f",
+        "android_client_info": {
+          "package_name": "com.example.mzk.jumbo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798986826293-mc612vue9usfgb1jqr1tvpuoml3l7a4s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mzk.jumbo",
+            "certificate_hash": "221ef1d027d06a88c3ce4da600784250680f63d1"
+          }
+        },
+        {
+          "client_id": "798986826293-fpcskjkth6jam6s1d6pn0atclvgr73po.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_8gBf9_4cjaOxEjEqS2W4SWPgTx2F0OY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798986826293-fpcskjkth6jam6s1d6pn0atclvgr73po.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
